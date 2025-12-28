@@ -1,0 +1,15 @@
+# Ignore node modules
+node_modules
+
+# Output directory for compiled TypeScript code
+dist
+
+# Environment files
+.env
+
+# Editor and IDE settings
+.vscode
+.idea
+
+# OS files
+.DS_Store

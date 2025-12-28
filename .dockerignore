@@ -1,0 +1,24 @@
+# Ignore node modules
+node_modules
+
+# Output directory for compiled TypeScript code
+dist
+
+# Environment files
+.env
+
+# Git repository files
+.git
+.gitignore
+
+# Docker files
+Dockerfile
+.dockerignore
+docker-compose.yaml
+
+# Editor and IDE settings
+.vscode
+.idea
+
+# OS files
+.DS_Store
